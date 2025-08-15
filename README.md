@@ -1,5 +1,4 @@
-# Comment Click Demo Tool (Safe Sample)
-
+# Instagram bot
 This is a **safe, demonstration-only** Python automation script that simulates the skills required for building a private Instagram comment-like tool **without** interacting with Instagram.  
 It uses the public demo site **https://quotes.toscrape.com/** for all automation actions.
 
